@@ -1,7 +1,14 @@
-# Ecole National Supérieur d'Informatique et d'Analyse des Système
-# Mohamed V University
+## École National Supérieur d'Informatique et d'Analyse des Système, Mohamed V University
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Contact: yassine_sedjari@um5.ac.ma
+- [CV]() - View my resume/CV.
+- [Google Scholar]() - Explore my academic publications.
+- [LinkedIn]([link-to-your-linkedin](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)) - Connect with me on LinkedIn.
+
+
+
+
+<!-- #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
@@ -54,3 +61,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+-->
