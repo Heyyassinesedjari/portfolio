@@ -25,7 +25,7 @@ Desk Rejected :
   * Supervised by Blumer Anselm, in wollaboration with Mouhajir Mohamed and Nechba Mohamed.
   * Submitted to [NeurIPS 2023](https://nips.cc/)
 
-### Industry Experience:
+### Industry Experience
 
 #### Oracle Labs
 - *Research Assistant*
