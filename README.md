@@ -24,7 +24,15 @@ Desk Rejected :
 
 * [Computing the Vapnik Chervonenkis Dimension for Non-Discrete Settings](https://arxiv.org/abs/2308.10041)
 * Supervised by Blumer Anselm, in wollaboration with Mouhajir Mohamed and Nechba Mohamed.
-* Submitted to [NeurIPS 2023](https://nips.cc/) 
+* Submitted to [NeurIPS 2023](https://nips.cc/)
+
+### Industry Experience:
+
+#### Oracle Labs
+- *Research Assistant*
+  - Enhanced Performance of Oracle AutoML API by 2.73% on Image Classification Task.
+  - Introduced a new display format for the summary results of the Oracle AutoML pipeline, enhancing the
+user experience.
 
 
 
