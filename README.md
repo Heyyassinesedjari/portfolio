@@ -9,6 +9,25 @@
 
 Hello! I am a senior undergraduate at [ENSIAS](https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_et_d%27analyse_des_syst%C3%A8mes) Majoring in Artificial Intelligence. Prior to ENSIAS, I completed two years of preparatory program [(CPGE)](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) in Lycée Al Khansaa Majoring in Mathematics, Physics and Engineering Sciences. During my undergraduate studies, I interned at [Oracle Labs](https://en.wikipedia.org/wiki/Oracle_Labs).
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Undergraduate Papers
+
+Published : 
+
+* [High Performance Computing Applied to Logistic Regression: A CPU and GPU Implementation
+Comparison](https://arxiv.org/abs/2308.10037)
+with Mouhajir Mohamed and Nechba Mohammed. [Paper](https://arxiv.org/abs/2308.10037)
+Submitted to [AIBThings-2023](https://aibthings.com/)
+
+Desk Rejected :
+
+* [Computing the Vapnik Chervonenkis Dimension for Non-Discrete Settings](https://arxiv.org/abs/2308.10041)
+* Supervised by Blumer Anselm, in wollaboration with Mouhajir Mohamed and Nechba Mohamed.
+* Submitted to [NeurIPS 2023](https://nips.cc/) 
+
+
+
 
 
 <!-- Hello! I am a 5th year doctoral candidate at the MIT Operations Research Center, advised by Prof. Bart Van Parys. Prior to joining MIT, I graduated from Ecole Polytechnique in 2019 Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. During my PhD, I interned at Google Research and subsequently continued as part-time there.
