@@ -1,7 +1,7 @@
 ## [Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)](http://ensias.um5.ac.ma/), [Mohamed V University](http://www.um5.ac.ma/um5/)
 
-#### Contact: yassine_sedjari@um5.ac.ma
-- [CV](), [Google Scholar](), [LinkedIn](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)
+#### Contact: yassine_sedjari@um5.ac.ma <br>
+[CV](), [Google Scholar](), [LinkedIn](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)
 
 ### About me
 
