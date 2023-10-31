@@ -1,15 +1,17 @@
+# SEDJARI Yassine
+
 ## [Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)](http://ensias.um5.ac.ma/), [Mohamed V University](http://www.um5.ac.ma/um5/)
 
 #### Contact: yassine_sedjari@um5.ac.ma <br>
 [CV](), [Google Scholar](), [LinkedIn](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)
 
-### About me
+## About me
 
 Hello! I am a senior undergraduate at [ENSIAS](https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_et_d%27analyse_des_syst%C3%A8mes) Majoring in Artificial Intelligence. Prior to ENSIAS, I completed two years of preparatory program [(CPGE)](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) in Lycée Al Khansaa Majoring in Mathematics, Physics and Engineering Sciences. During my undergraduate studies, I interned at [Oracle Labs](https://en.wikipedia.org/wiki/Oracle_Labs).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Undergraduate Papers
+## Undergraduate Papers
 
 Published : 
 
@@ -26,7 +28,7 @@ Desk Rejected :
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Industry Experience
+## Industry Experience
 
 #### Oracle Labs
 - *Research Assistant*
