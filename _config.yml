@@ -1,3 +1,4 @@
 # add the following to _config.yml file
 title: SEDJARI Yassine
+logo: /images/photo.jpeg
 theme: jekyll-theme-minimal
