@@ -16,8 +16,8 @@ Hello! I am a senior undergraduate at [ENSIAS](https://fr.wikipedia.org/wiki/%C3
 Published : 
 
 * [High Performance Computing Applied to Logistic Regression: A CPU and GPU Implementation
-Comparison](https://arxiv.org/abs/2308.10037)
-with Mouhajir Mohamed and Nechba Mohammed. [Paper](https://arxiv.org/abs/2308.10037)
+Comparison](https://arxiv.org/abs/2308.10037) <br>
+with Mouhajir Mohamed and Nechba Mohammed. [Paper](https://arxiv.org/abs/2308.10037) <br>
 Submitted to [AIBThings-2023](https://aibthings.com/)
 
 Desk Rejected :
