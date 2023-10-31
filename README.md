@@ -1,11 +1,15 @@
-## École National Supérieur d'Informatique et d'Analyse des Système, Mohamed V University
+## Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes, Mohamed V University
 
 ### Contact: yassine_sedjari@um5.ac.ma
 - [CV]() - View my resume/CV.
 - [Google Scholar]() - Explore my academic publications.
-- [LinkedIn]([link-to-your-linkedin](https://www.linkedin.com/in/yassine-sedjari-4074aa189/)) - Connect with me on LinkedIn.
+- [LinkedIn](https://www.linkedin.com/in/yassine-sedjari-4074aa189/) - Connect with me on LinkedIn.
 
+### About me
 
+Hello! I am a 5th year doctoral candidate at the MIT Operations Research Center, advised by Prof. Bart Van Parys. Prior to joining MIT, I graduated from Ecole Polytechnique in 2019 Majoring in Applied Mathematics and completed two years of preparatory program (CPGE) in Lycée Louis-le-Grand. During my PhD, I interned at Google Research and subsequently continued as part-time there.
+
+My research interest lies in Data-driven Decision-making, with a focus on reliability attributes such as robustness and interpretability. I strive to understand how to use most efficiently observed data to make decisions. The goal is to derive from these insights novel algorithms that tackle challenges in data-driven decision-making. My recent work focuses on designing novel robust approaches to Stochastic Optimization problems using Distributionally Robust Optimization. We have applied these approaches to various problems such as portfolio optimization and training neural networks, resulting in state-of-art performance. Earlier in my PhD, I have worked in Reinforcement Learning (RL) to introduce a novel more efficient and interepretable RL framework. We have then applied this framework to COVID-19 predictions and vaccine allocation.
 
 
 <!-- #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
