@@ -31,7 +31,7 @@ Desk Rejected :
 
 #### Oracle Labs
 - *Research Assistant*
-  - Enhanced Performance of Oracle AutoML API by 2.73% on Image Classification Task.
+  - Realized a 2.73% enhancement in the performance of the Oracle AutoML API specifically in the domain of image classification tasks.
   - Introduced a new display format for the summary results of the Oracle AutoML pipeline, enhancing the
 user experience.
 
