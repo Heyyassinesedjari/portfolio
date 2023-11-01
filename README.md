@@ -16,7 +16,7 @@ Published :
 
 * [High Performance Computing Applied to Logistic Regression: A CPU and GPU Implementation
 Comparison](https://arxiv.org/abs/2308.10037)
-  * with Mouhajir Mohamed and Nechba Mohammed. [Paper](https://arxiv.org/abs/2308.10037)
+  * with Mouhajir Mohamed and Nechba Mohammed. [Paper](https://arxiv.org/abs/2308.10037) [IEEExplore](https://ieeexplore.ieee.org/document/10291024)
   * Submitted to [AIBThings-2023](https://aibthings.com/)
 
 Desk Rejected :
