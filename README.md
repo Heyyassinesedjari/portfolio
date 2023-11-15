@@ -8,6 +8,14 @@
 
 Hello! I am a senior undergraduate at [ENSIAS](https://fr.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_et_d%27analyse_des_syst%C3%A8mes) Majoring in Artificial Intelligence. Prior to ENSIAS, I completed two years of preparatory program [(CPGE)](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) in Lycée Al Khansaa Majoring in Mathematics, Physics and Engineering Sciences. During my undergraduate studies, I interned at [Oracle Labs](https://en.wikipedia.org/wiki/Oracle_Labs).
 
+As I approach the culmination of my undergraduate studies, I am actively seeking a research internship opportunity. My goal is to contribute to cutting-edge projects in Artificial Intelligence, building on the foundation laid during my academic journey and internship at Oracle Labs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Research Interests
+
+My research interests include Machine Learning, Statistical Learning, Natural Language Processing, Reinforcement Learning, Optimization, High Performance Computin and related fields. I am enthusiastic about exploring opportunities that resonate with these areas of passion.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Undergraduate Papers
