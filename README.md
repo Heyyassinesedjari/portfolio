@@ -30,7 +30,7 @@ Comparison](https://arxiv.org/abs/2308.10037)
 Desk Rejected :
 
 * [Computing the Vapnik Chervonenkis Dimension for Non-Discrete Settings](https://arxiv.org/abs/2308.10041)
-  * Supervised by [Blumer Anselm](https://scholar.google.com/citations?user=4esyQS4AAAAJ&hl=en), in collaboration with Mouhajir Mohamed and Nechba Mohamed.
+  * Supervised by [Prof. Abdellatif El Afia](https://scholar.google.com/citations?user=4esyQS4AAAAJ&hl=en](https://scholar.google.com/citations?user=CLgOVHUAAAAJ&hl=fr)), in collaboration with Mouhajir Mohamed and Nechba Mohamed.
   * Submitted to [NeurIPS 2023](https://nips.cc/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
